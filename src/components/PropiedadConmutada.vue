@@ -21,8 +21,8 @@
             getJuegosAzules() {
                 //EL METODO NO DEVUELVE NADA, NECESITAMOS TENER UN DIBUJO
                 // this.html = "";
-                for (var juego of this.juegos){
-                    this.html += "<h4 style='color:blue'>" + juego + "</h4>";
+                for (var j of this.juegos){
+                    this.html += "<h4 style='color:blue'>" + j + "</h4>";
                 }
             }
         },

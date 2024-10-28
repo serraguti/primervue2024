@@ -1,8 +1,5 @@
 <template>
   <div>
-    <h1 style="color: blue">
-      Título estático de App
-    </h1>
     <MenuComponent/>
     <hr/>
       <router-view></router-view>

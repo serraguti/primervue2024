@@ -17,7 +17,13 @@
                 <router-link to="/directivas">Directivas</router-link> | 
             </li>
             <li>
-                <router-link to="/conmutadas">Propiedades conmutadas</router-link>
+                <router-link to="/conmutadas">Propiedades conmutadas</router-link> | 
+            </li>
+            <li>
+                <router-link to="/parimpar">Par Impar</router-link> | 
+            </li>
+            <li>
+                <router-link to="/metodosfilters">Métodos Filters</router-link>
             </li>
         </ul>
     </div>
